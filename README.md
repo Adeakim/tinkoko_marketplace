@@ -8,7 +8,7 @@ This repository contains the documentation for the  Tinkoko Market Place project
 
 ## Overview
 
-The Project Name project is built using AWS Lambda, DynamoDB, and API Gateway. It offers a set of APIs for managing users and products. Below is a list of available APIs:
+The Tinkoko MarketPlace is built using AWS Lambda, DynamoDB, and API Gateway. It offers a set of APIs for managing users and products. Below is a list of available APIs:
 
 - [Create User](CREATEUSER.md): Create a new user.
 - [Create Product](CREATEPRODUCT.md): Create a new product.
